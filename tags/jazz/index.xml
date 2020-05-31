@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jazz on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/jazz/</link>
+    <description>Recent content in Jazz on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Sat, 05 Nov 2011 02:37:58 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/jazz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Piazzolla plays Piazzolla</title>
+      <link>https://manuxch.github.io/post/piazzolla-plays-piazzolla/</link>
+      <pubDate>Sat, 05 Nov 2011 02:37:58 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/piazzolla-plays-piazzolla/</guid>
+      <description>Jazz de alto nivel en la noche platense.
+Escalandrum es el sexteto liderado por Daniel &amp;ldquo;Pipi&amp;rdquo; Piazzolla (nieto de Astor), y gracias nuevamente a la generosidad de Martín Sánchez y la Fundación YPF, tuve el enorme gusto de poder escucharlos hace un rato en la Sala Astor Piazzolla del Teatro Argentino haciendo un homenaje al más grande compositor argentino (una noche de Piazzolla³).</description>
+    </item>
+    
+    <item>
+      <title>Cantaloupe Island</title>
+      <link>https://manuxch.github.io/post/cantaloupe-island/</link>
+      <pubDate>Fri, 04 Jun 2010 15:00:27 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/cantaloupe-island/</guid>
+      <description>Momentos mágicos del Jazz, en este caso con Herbie Hancock y su monumental Cantaloupe Island, con Tony Williams en batería, Joe Henderson en saxo tenor y un solo memorable de Freddie Hubbard en trompeta.</description>
+    </item>
+    
+  </channel>
+</rss>

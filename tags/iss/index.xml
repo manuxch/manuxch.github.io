@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ISS on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/iss/</link>
+    <description>Recent content in ISS on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Sun, 24 Nov 2013 01:08:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/iss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estación Espacial Internacional volando sobre La Plata</title>
+      <link>https://manuxch.github.io/post/estacion-espacial-internacional-volando-sobre-la-plata/</link>
+      <pubDate>Sun, 24 Nov 2013 01:08:20 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/estacion-espacial-internacional-volando-sobre-la-plata/</guid>
+      <description>Hace tiempo que intento fotografiar el paso de la Estación Espacial Internacional (ISS por sus siglas en inglés), y lo he logrado algunas veces sin alcanzar un grado de calidad satisfactorio en la imagen.</description>
+    </item>
+    
+  </channel>
+</rss>

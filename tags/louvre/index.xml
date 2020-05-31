@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Louvre on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/louvre/</link>
+    <description>Recent content in Louvre on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Thu, 27 Jan 2005 16:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/louvre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Victoria alada</title>
+      <link>https://manuxch.github.io/post/victoria-alada/</link>
+      <pubDate>Thu, 27 Jan 2005 16:30:00 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/victoria-alada/</guid>
+      <description>Victoria de Samotracia, Louvre - 1993
+Para los griegos, la diosa de la Victoria (Niké) es una bella joven alada.</description>
+    </item>
+    
+  </channel>
+</rss>

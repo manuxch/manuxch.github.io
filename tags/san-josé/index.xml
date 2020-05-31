@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San José on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/san-jos%C3%A9/</link>
+    <description>Recent content in San José on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Sat, 18 Jan 2014 01:13:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/san-jos%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Herramientas</title>
+      <link>https://manuxch.github.io/post/herramientas/</link>
+      <pubDate>Sat, 18 Jan 2014 01:13:29 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/herramientas/</guid>
+      <description>Una carretilla y una pala, jubiladas en el patio de la casa de mis suegros.</description>
+    </item>
+    
+    <item>
+      <title>Asclepias curassavica</title>
+      <link>https://manuxch.github.io/post/asclepias-curassavica/</link>
+      <pubDate>Tue, 14 Jan 2014 16:09:57 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/asclepias-curassavica/</guid>
+      <description>Abierto/cerrado
+Foto de la Asclepias curassavica, una de las dos especies de las que se alimentan las orugas de mariposas monarca.</description>
+    </item>
+    
+    <item>
+      <title>Enero 2012</title>
+      <link>https://manuxch.github.io/post/enero-2012/</link>
+      <pubDate>Sun, 22 Jan 2012 20:31:34 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/enero-2012/</guid>
+      <description>Comenzamos el año disfrutando unas semanas de estadía en San José.</description>
+    </item>
+    
+    <item>
+      <title>Vacaciones de verano 2006</title>
+      <link>https://manuxch.github.io/post/vacaciones-de-verano-2006/</link>
+      <pubDate>Sun, 04 Jun 2006 23:10:00 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/vacaciones-de-verano-2006/</guid>
+      <description>Parte de las vacaciones de verano 2006 las pasamos en San José, sobre la costa del río Uruguay, en la casa de los padres de Marisa.</description>
+    </item>
+    
+  </channel>
+</rss>

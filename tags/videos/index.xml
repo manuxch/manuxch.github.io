@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/videos/</link>
+    <description>Recent content in Videos on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Thu, 13 May 2010 18:22:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/videos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Air Race at Rio</title>
+      <link>https://manuxch.github.io/post/air-race-at-rio/</link>
+      <pubDate>Thu, 13 May 2010 18:22:37 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/air-race-at-rio/</guid>
+      <description>El domingo 9 de mayo asistí en la playa de Flamengo a una carrera de aviones.</description>
+    </item>
+    
+  </channel>
+</rss>

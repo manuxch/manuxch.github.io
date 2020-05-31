@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Norma on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/norma/</link>
+    <description>Recent content in Norma on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Sun, 05 Dec 2010 16:28:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/norma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Veredas</title>
+      <link>https://manuxch.github.io/post/veredas/</link>
+      <pubDate>Sun, 05 Dec 2010 16:28:02 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/veredas/</guid>
+      <description>A Marisa no se le escapa ningún byte de información. Ni siquiera los palimpsestos que componen los desprolijos grafitis callejeros.</description>
+    </item>
+    
+    <item>
+      <title>Vacaciones de invierno 2006</title>
+      <link>https://manuxch.github.io/post/vacaciones-de-invierno-2006/</link>
+      <pubDate>Tue, 08 Aug 2006 00:47:00 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/vacaciones-de-invierno-2006/</guid>
+      <description>Durante una semana de julio estuvimos de paseo en Paraná.</description>
+    </item>
+    
+    <item>
+      <title>Hotel Cosmos</title>
+      <link>https://manuxch.github.io/post/hotel-cosmos/</link>
+      <pubDate>Tue, 15 Mar 2005 01:08:00 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/hotel-cosmos/</guid>
+      <description>Hotel Cosmos - Semana Santa 2003
+Durante la Semana Santa de 2003 disfrutamos de unas vacaciones familiares en La Falda, Córdoba.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>educación on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/educaci%C3%B3n/</link>
+    <description>Recent content in educación on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Mon, 31 Mar 2014 17:43:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/educaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Feliz inicio de clases en la Escuela Pública</title>
+      <link>https://manuxch.github.io/post/feliz-inicio-de-clases-en-la-escuela-publica/</link>
+      <pubDate>Mon, 31 Mar 2014 17:43:50 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/feliz-inicio-de-clases-en-la-escuela-publica/</guid>
+      <description>Hoy, finalmente, los chicos comenzaron las clases. Flor empezó su tránsito por la escuela secundaria, mientras que Nacho arrancó tercer grado.</description>
+    </item>
+    
+    <item>
+      <title>Fin de primaria</title>
+      <link>https://manuxch.github.io/post/fin-de-primaria/</link>
+      <pubDate>Wed, 01 Jan 2014 21:53:20 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/fin-de-primaria/</guid>
+      <description>El pasado 2013 fue un año difícil en muchos aspectos, pero también con alegrías.</description>
+    </item>
+    
+  </channel>
+</rss>

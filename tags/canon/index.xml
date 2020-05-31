@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canon on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/canon/</link>
+    <description>Recent content in Canon on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Sun, 30 Jun 2013 21:29:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/canon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Canon upgrade</title>
+      <link>https://manuxch.github.io/post/canon-upgrade/</link>
+      <pubDate>Sun, 30 Jun 2013 21:29:50 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/canon-upgrade/</guid>
+      <description>Cuando era chico había habitualmente en casa cámaras fotográficas y lentes, debido a que mi papá era periodista gráfico.</description>
+    </item>
+    
+  </channel>
+</rss>

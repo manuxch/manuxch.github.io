@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Borges on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/borges/</link>
+    <description>Recent content in Borges on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Sun, 04 Jul 2010 21:33:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/borges/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Destino</title>
+      <link>https://manuxch.github.io/post/destino/</link>
+      <pubDate>Sun, 04 Jul 2010 21:33:49 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/destino/</guid>
+      <description>Cualquier destino, por largo y complicado que sea, consta en realidad de un solo momento: el momento en el que el hombre sabe para siempre quién es.</description>
+    </item>
+    
+    <item>
+      <title>El olvido</title>
+      <link>https://manuxch.github.io/post/el-olvido/</link>
+      <pubDate>Sat, 29 May 2010 22:16:00 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/el-olvido/</guid>
+      <description>Temí que no quedara una sola cosa capaz de sorprenderme, temí que no me abandonara jamás la impresión de volver.</description>
+    </item>
+    
+  </channel>
+</rss>

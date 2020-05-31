@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simón Fuga on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/sim%C3%B3n-fuga/</link>
+    <description>Recent content in Simón Fuga on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Sun, 11 Dec 2011 22:37:53 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/sim%C3%B3n-fuga/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Domingo de funk</title>
+      <link>https://manuxch.github.io/post/domingo-de-funk/</link>
+      <pubDate>Sun, 11 Dec 2011 22:37:53 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/domingo-de-funk/</guid>
+      <description>En cualquier momento se cae el cielo sobre La Plata, y es una tarde oportuna para escuchar una buena banda.</description>
+    </item>
+    
+  </channel>
+</rss>

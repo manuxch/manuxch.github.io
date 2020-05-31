@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seguridad on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/seguridad/</link>
+    <description>Recent content in seguridad on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Sun, 29 Dec 2013 01:46:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/seguridad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Un nuevo punto de vista</title>
+      <link>https://manuxch.github.io/post/un-nuevo-punto-de-vista/</link>
+      <pubDate>Sun, 29 Dec 2013 01:46:34 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/un-nuevo-punto-de-vista/</guid>
+      <description>Por lo general, hemos tratado de ser padres permisivos con nuestros hijos.</description>
+    </item>
+    
+  </channel>
+</rss>

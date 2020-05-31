@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tormenta on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/tormenta/</link>
+    <description>Recent content in tormenta on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Thu, 18 Dec 2014 01:59:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/tormenta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tormenta de verano</title>
+      <link>https://manuxch.github.io/post/tormenta-de-verano/</link>
+      <pubDate>Thu, 18 Dec 2014 01:59:31 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/tormenta-de-verano/</guid>
+      <description>Por lo general no soy muy afecto al verano. Por supuesto que me gusta cuando estoy cerca del mar, pero cuando no es el caso el calor me resulta muy molesto y prefiero los días más fríos y oscuros.</description>
+    </item>
+    
+    <item>
+      <title>Tormenta en La Plata</title>
+      <link>https://manuxch.github.io/post/tormenta-en-la-plata/</link>
+      <pubDate>Sat, 08 Feb 2014 22:00:43 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/tormenta-en-la-plata/</guid>
+      <description>Una tarde de sábado ideal: tormenta de verano y buenas series para ver en TV.</description>
+    </item>
+    
+  </channel>
+</rss>

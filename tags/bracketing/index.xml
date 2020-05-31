@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bracketing on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/bracketing/</link>
+    <description>Recent content in bracketing on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Mon, 15 Nov 2010 01:10:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/bracketing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Más estadio</title>
+      <link>https://manuxch.github.io/post/mas-estadio/</link>
+      <pubDate>Mon, 15 Nov 2010 01:10:48 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/mas-estadio/</guid>
+      <description>Sigo practicando la toma nocturna de fotos, con su posterior procesamiento.</description>
+    </item>
+    
+    <item>
+      <title>Progreso</title>
+      <link>https://manuxch.github.io/post/progreso/</link>
+      <pubDate>Sun, 26 Sep 2010 18:33:38 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/progreso/</guid>
+      <description>Jugando nuevamente con el Exposure Blending de digiKam, armé esta foto del Estadio Ciudad de La Plata tomando varias fotos con diferentes tiempos de exposición.</description>
+    </item>
+    
+    <item>
+      <title>Estadio Ciudad de La Plata</title>
+      <link>https://manuxch.github.io/post/estadio-unico-de-la-plata/</link>
+      <pubDate>Fri, 13 Aug 2010 13:00:12 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/estadio-unico-de-la-plata/</guid>
+      <description>Luego de descubrir el Canon Hack Development Kit (CHDK) tengo mucho por experimentar con mi vieja Powershot A610.</description>
+    </item>
+    
+  </channel>
+</rss>

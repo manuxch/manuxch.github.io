@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Sitio web de Manuel Carlevaro</title>
+    <link>https://manuxch.github.io/tags/blog/</link>
+    <description>Recent content in blog on Sitio web de Manuel Carlevaro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>esp</language>
+    <lastBuildDate>Thu, 21 May 2020 23:23:07 -0300</lastBuildDate>
+    
+	<atom:link href="https://manuxch.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hola Hugo</title>
+      <link>https://manuxch.github.io/post/hola-hugo/</link>
+      <pubDate>Thu, 21 May 2020 23:23:07 -0300</pubDate>
+      
+      <guid>https://manuxch.github.io/post/hola-hugo/</guid>
+      <description>Hace tiempo que no publico nada en el blog, principalmente porque el trabajo me lleva demasiado tiempo, pero también porque quería armar un sitio que integre mi perfil académico con los pensamientos sueltos que componen el blog.</description>
+    </item>
+    
+    <item>
+      <title>Las nuevas generaciones vienen marchando</title>
+      <link>https://manuxch.github.io/post/las-nuevas-generaciones-vienen-marchando/</link>
+      <pubDate>Sun, 14 Dec 2008 22:08:16 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/las-nuevas-generaciones-vienen-marchando/</guid>
+      <description>Hace apenas unos minutos, Florencia publicó su primer post en su nuevo blog.</description>
+    </item>
+    
+    <item>
+      <title>Un nuevo comienzo</title>
+      <link>https://manuxch.github.io/post/un-nuevo-comienzo/</link>
+      <pubDate>Fri, 12 Dec 2008 00:43:38 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/un-nuevo-comienzo/</guid>
+      <description>Algo pasó. No sé qué fue. Mi blog, y el de Marisa, desaparecieron del servidor.</description>
+    </item>
+    
+    <item>
+      <title>5K&#43; visitas</title>
+      <link>https://manuxch.github.io/post/5k-visitas/</link>
+      <pubDate>Sun, 13 Aug 2006 14:00:00 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/5k-visitas/</guid>
+      <description>Durante esta semana, este blog ha superado la marca de las cinco mil visitas.</description>
+    </item>
+    
+    <item>
+      <title>Gracias Nikon. Hola Canon.</title>
+      <link>https://manuxch.github.io/post/gracias-nikon-hola-canon/</link>
+      <pubDate>Sun, 02 Jul 2006 17:53:00 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/gracias-nikon-hola-canon/</guid>
+      <description>Después de 14 años de servicio, la noble Nikon W35, fiel cámara analógica que me ha acompañado todos esos años registrando acontecimientos de mi vida, de mi familia y amigos, ha dado paso a la nueva tecnología.</description>
+    </item>
+    
+    <item>
+      <title>Blog == Dinero</title>
+      <link>https://manuxch.github.io/post/blog-dinero/</link>
+      <pubDate>Tue, 04 Apr 2006 02:20:00 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/blog-dinero/</guid>
+      <description>El viernes 31 de marzo recibí en mi domicilio el cheque de Google con el pago por los ingresos generados utilizando el programa AdSense.</description>
+    </item>
+    
+    <item>
+      <title>1000&#43; visitas</title>
+      <link>https://manuxch.github.io/post/1000-visitas/</link>
+      <pubDate>Fri, 01 Jul 2005 01:36:00 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/1000-visitas/</guid>
+      <description>Hoy el contador de visitas de este blog marcó el número 1000.</description>
+    </item>
+    
+    <item>
+      <title>Inicio</title>
+      <link>https://manuxch.github.io/post/inicio/</link>
+      <pubDate>Tue, 18 Jan 2005 13:55:00 +0000</pubDate>
+      
+      <guid>https://manuxch.github.io/post/inicio/</guid>
+      <description>Estoy armando este blog con el propósito de publicar online las fotos de mi familia y amigos.</description>
+    </item>
+    
+  </channel>
+</rss>
