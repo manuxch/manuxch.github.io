@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bossa Nova | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/tag/bossa-nova/</link>
+      <atom:link href="https://carlevaro.ar/tag/bossa-nova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bossa Nova</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Mon, 22 Mar 2010 01:49:27 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bossa Nova</title>
+      <link>https://carlevaro.ar/tag/bossa-nova/</link>
+    </image>
+    
+    <item>
+      <title>Aguas de marzo</title>
+      <link>https://carlevaro.ar/post/aguas-de-marzo/</link>
+      <pubDate>Mon, 22 Mar 2010 01:49:27 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/aguas-de-marzo/</guid>
+      <description>&lt;p&gt;Ya en la segunda mitad de marzo, se cierra el verano. Aquí en Río de Janeiro
+ha sido un mes con mucha lluvia, lo que fue un alivio ya que el verano fue muy caluroso, con temperaturas muy altas.&lt;/p&gt;
+&lt;p&gt;Águas de Março es un tema de &lt;a href=&#34;http://es.wikipedia.org/wiki/Tom_Jobim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tom Jobin&lt;/a&gt;, interpretado en este video por él y &lt;a href=&#34;http://es.wikipedia.org/wiki/Elis_Regina&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elis Regina&lt;/a&gt;. Es tal vez el tema que más me gusta de la música de Brasil, y en particular esta versión es espectacular. Espero que la disfruten.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/E1tOV7y94DY?autoplay=1&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

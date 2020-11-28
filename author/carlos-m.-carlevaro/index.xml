@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos M. Carlevaro | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/author/carlos-m.-carlevaro/</link>
+      <atom:link href="https://carlevaro.ar/author/carlos-m.-carlevaro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlos M. Carlevaro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Carlos M. Carlevaro</title>
+      <link>https://carlevaro.ar/author/carlos-m.-carlevaro/</link>
+    </image>
+    
+    <item>
+      <title>Modeling of the dielectric properties of trabecular bone samples at microwave frequency</title>
+      <link>https://carlevaro.ar/publication/irastorza-2014/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/irastorza-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonmonotonic reversible branch in four model granular beds subjected to vertical vibration</title>
+      <link>https://carlevaro.ar/publication/pugnaloni-2008-b/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/pugnaloni-2008-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuum percolation of long lifespan clusters in a simple fluid</title>
+      <link>https://carlevaro.ar/publication/pugnaloni-2008/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/pugnaloni-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

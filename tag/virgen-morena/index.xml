@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virgen Morena | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/tag/virgen-morena/</link>
+      <atom:link href="https://carlevaro.ar/tag/virgen-morena/index.xml" rel="self" type="application/rss+xml" />
+    <description>Virgen Morena</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Sat, 05 Feb 2011 22:11:04 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Virgen Morena</title>
+      <link>https://carlevaro.ar/tag/virgen-morena/</link>
+    </image>
+    
+    <item>
+      <title>Collage de time lapse</title>
+      <link>https://carlevaro.ar/post/collage-de-time-lapse/</link>
+      <pubDate>Sat, 05 Feb 2011 22:11:04 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/collage-de-time-lapse/</guid>
+      <description>&lt;p&gt;Las reuniones familiares anuales en la Cabaña Virgen Morena (&lt;a href=&#34;http://es.wikipedia.org/wiki/Oro_Verde_%28Argentina%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oro Verde&lt;/a&gt;, Entre Ríos) son ya tradicionales.
+Es una semana al año en que pasamos unos días tranquilos en un lugar excepcional.&lt;/p&gt;
+&lt;p&gt;En el afán de guardar esos buenos recuerdos, suelo experimentar con mi cámara de fotos. En este caso colecté un par de miles de fotos para utilizarlas con la técnica &amp;ldquo;&lt;a href=&#34;http://en.wikipedia.org/wiki/Time-lapse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;time lapse&lt;/em&gt;&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Los resultados no fueron muy buenos, pero utlicé los menos lamentables para editarlos en el video que se ve a continuación.
+Para armar este video utilicé mi Canon Powershot A610 con el firmware &lt;a href=&#34;http://chdk.wikia.com/wiki/CHDK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CHDK&lt;/a&gt; para las capturas de fotos,
+&lt;a href=&#34;http://www.mplayerhq.hu/design7/news.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mencoder&lt;/a&gt; para unirlas, &lt;a href=&#34;http://www.openshotvideo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenShot&lt;/a&gt;
+para la edición y el tema &amp;ldquo;Space Odyssey (Ambient Version)&amp;rdquo; de Dokapi descargada de &lt;a href=&#34;http://opsound.org/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Opsound&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bUS8niePP8w?autoplay=1&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

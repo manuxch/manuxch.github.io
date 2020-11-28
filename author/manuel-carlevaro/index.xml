@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Carlevaro | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/author/manuel-carlevaro/</link>
+      <atom:link href="https://carlevaro.ar/author/manuel-carlevaro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuel Carlevaro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Fri, 01 Nov 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Manuel Carlevaro</title>
+      <link>https://carlevaro.ar/author/manuel-carlevaro/</link>
+    </image>
+    
+    <item>
+      <title>Modelo Microscópico de Agua Líquida. Aproximación Esférica Media Generalizada</title>
+      <link>https://carlevaro.ar/publication/tesis-doc/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/tesis-doc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydration properties of xylitol: computer simulation</title>
+      <link>https://carlevaro.ar/publication/carlevaro-1998/</link>
+      <pubDate>Sat, 01 Aug 1998 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/carlevaro-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Percolación Continua en Fluidos Dipolares</title>
+      <link>https://carlevaro.ar/publication/tesis-lic/</link>
+      <pubDate>Mon, 01 May 1995 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/tesis-lic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/tag/blog/</link>
+      <atom:link href="https://carlevaro.ar/tag/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>blog</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Thu, 21 May 2020 23:23:07 -0300</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>blog</title>
+      <link>https://carlevaro.ar/tag/blog/</link>
+    </image>
+    
+    <item>
+      <title>Hola Hugo</title>
+      <link>https://carlevaro.ar/post/hola-hugo/</link>
+      <pubDate>Thu, 21 May 2020 23:23:07 -0300</pubDate>
+      <guid>https://carlevaro.ar/post/hola-hugo/</guid>
+      <description>&lt;p&gt;Hace tiempo que no publico nada en el blog, principalmente porque el trabajo
+me lleva demasiado tiempo, pero también porque quería armar un sitio que
+integre mi perfil académico con los pensamientos sueltos que componen el blog.&lt;/p&gt;
+&lt;p&gt;Por otra parte, buscaba la forma de mantener la historia de esas publicaciones,
+de una manera que tenga un formato simple, lejos de las complejidades de
+WordPress. Estuve buscando entonces algún sistema de generación estática de
+páginas web, que sea simple de mantener, simple para publicar, y que pueda
+&lt;em&gt;hostearse&lt;/em&gt; en Github.&lt;/p&gt;
+&lt;p&gt;Primero exploré un tiempo &lt;a href=&#34;https://getnikola.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikola&lt;/a&gt; pero no le pude encontrar el punto a la
+cosmética que quería tener en el sitio. Buscando por ahí me resultó muy
+tentadora la propuesta de &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;. En pocas horas (no tan
+pocas) pude tener el sitio como yo quería, y además recuperar todos los posts
+que tenía en WordPress, aunque hubo que retocar bastante el tema de las fotos.&lt;/p&gt;
+&lt;p&gt;Así que ahora tengo un nuevo rincón en la web para usar como presentación.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Las nuevas generaciones vienen marchando</title>
+      <link>https://carlevaro.ar/post/las-nuevas-generaciones-vienen-marchando/</link>
+      <pubDate>Sun, 14 Dec 2008 22:08:16 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/las-nuevas-generaciones-vienen-marchando/</guid>
+      <description>&lt;p&gt;Hace apenas unos minutos, Florencia publicó su &lt;a href=&#34;http://manu-x.com.ar/flor/2008/12/bienvenidos-al-blog-de-florencia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;primer post&lt;/a&gt; en su nuevo &lt;a href=&#34;http://flor.manu-x.com.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;El tiempo pasa muy rápido. Hace poco aprendía a caminar. Ahora terminó primer
+grado, lee muy bien, está aprendiendo a escribir y aritmética básica.&lt;/p&gt;
+&lt;p&gt;Aprovechando la desaparición de mi blog anterior, y ante la disyuntiva de
+empezar de nuevo o recuperarlo, Flor insistió en que quería uno para ella.&lt;/p&gt;
+&lt;p&gt;De este modo tomamos la decisión de limpiar todo y comenzar desde cero,
+acompañanado la nueva iniciativa de Flor.&lt;/p&gt;
+&lt;p&gt;Y aquí está ella también, ahora con su blog.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://picasaweb.google.com/lh/photo/Cu_vokL4OArMSPTy36w-Cg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://lh4.ggpht.com/_kjktWGBKtT8/SUWAqkzInjI/AAAAAAAABgg/77fLzZWyM_g/s400/img_9392.jpg&#34; alt=&#34;Flor en Diagonal 73 alfombrada con flores de jacarandá&#34; title=&#34;Flor2&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un nuevo comienzo</title>
+      <link>https://carlevaro.ar/post/un-nuevo-comienzo/</link>
+      <pubDate>Fri, 12 Dec 2008 00:43:38 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/un-nuevo-comienzo/</guid>
+      <description>&lt;p&gt;Algo pasó. No sé qué fue. Mi blog, y el de Marisa, desaparecieron del servidor.&lt;/p&gt;
+&lt;p&gt;Seguramente, a partir de algunos backups que tengo y la generosa predisposición
+de amigos podría recuperarlos. Sin embargo, creo que es un buen momento para
+empezar desde cero un nuevo blog.&lt;/p&gt;
+&lt;p&gt;Con otro motor, el flamante &lt;a href=&#34;http://wordpress.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress 2.7&lt;/a&gt;, una nueva
+estética minimalista, y el entusiasmo renovado por publicar.&lt;/p&gt;
+&lt;p&gt;Es una buena oportunidad para retomar la exploración de este medio de
+comunicación con familiares, amigos y visitantes ocasionales.&lt;/p&gt;
+&lt;p&gt;Bienvenidos a todos, una vez más.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5K&#43; visitas</title>
+      <link>https://carlevaro.ar/post/5k-visitas/</link>
+      <pubDate>Sun, 13 Aug 2006 14:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/5k-visitas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://photos1.blogger.com/blogger/4304/163/1600/map5K.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://photos1.blogger.com/blogger/4304/163/400/map5K.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Durante esta semana, este blog ha superado la marca de las cinco mil visitas.&lt;/p&gt;
+&lt;p&gt;Es algo que jamás pensé que ocurriría, en virtud de que este blog fue pensado
+con el fin de compartir fragmentos de mi vida con familiares y amigos.&lt;/p&gt;
+&lt;p&gt;Considero que apenas puede llegar a interesar a ellos visitar este sitio, sin
+embargo he recibido visitas de todo el planeta (o mejor dicho, de la parte del
+planeta que dispone de alguna conexión a internet), como lo muestra la imagen
+obtenida mediante la herramienta Google Analytics. Obviamente, la mayoría de
+ellos llega aqui de un modo casual, saltando de blog en blog elegidos aleatoriamente
+por Blogger.&lt;/p&gt;
+&lt;p&gt;Muchos otros lo hacen guiados por las páginas de resultados de buscadores como
+Google, MSN o Yahoo! En este caso, existe una decisión voluntaria de seguir el
+link hasta aqui.&lt;/p&gt;
+&lt;p&gt;Y por supuesto, hay un gran grupo de fieles seguidores que semana a semana
+(incluso día a día) visitan esta página y aportan a la causa.&lt;/p&gt;
+&lt;p&gt;A todos los visitantes que permiten que este blog siga creciendo: Muchas gracias.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gracias Nikon. Hola Canon.</title>
+      <link>https://carlevaro.ar/post/gracias-nikon-hola-canon/</link>
+      <pubDate>Sun, 02 Jul 2006 17:53:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/gracias-nikon-hola-canon/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://photos1.blogger.com/blogger/4304/163/1600/blog-NC.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://photos1.blogger.com/blogger/4304/163/320/blog-NC.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Después de 14 años de servicio, la noble Nikon W35, fiel cámara analógica que me
+ha acompañado todos esos años registrando acontecimientos de mi vida, de mi
+familia y amigos, ha dado paso a la nueva tecnología.&lt;/p&gt;
+&lt;p&gt;Esta Nikon inició su trabajo en marzo de 1993, pocos minutos después de ser
+comprada en Harrods de Londres. Desde entonces ha sacado muy bonitas fotos,
+a pesar de ser operada por mis manos inexpertas.&lt;/p&gt;
+&lt;p&gt;Gracias al continuo &lt;a href=&#34;http://manu-x.blogspot.com/2006/04/blog-dinero.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aporte a este blog&lt;/a&gt;
+de sus visitantes habituales por medio del programa &lt;a href=&#34;http://www.google.es/services/adsense_tour/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AdSense&lt;/a&gt;,
+hace poco más de un mes cambiamos a la tecnología digital incorporando una
+Canon PowerShot A610, traída desde Viena por Gabriel Aguirre.&lt;/p&gt;
+&lt;p&gt;Desde entonces ya llevamos casi 2 GB de fotos acumulándose en el disco rígido
+de la PC.&lt;/p&gt;
+&lt;p&gt;Es increíble como en estos 14 años la tecnología ha hecho todo mucho más simple,
+efectivo, poderoso. Pero sin dudas, mientras se consiga película,
+la Nikon seguirá funcionando como siempre, impecablemente.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blog == Dinero</title>
+      <link>https://carlevaro.ar/post/blog-dinero/</link>
+      <pubDate>Tue, 04 Apr 2006 02:20:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/blog-dinero/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://photos1.blogger.com/blogger/4304/163/1600/Google-Ad.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://photos1.blogger.com/blogger/4304/163/320/Google-Ad.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;El viernes 31 de marzo recibí en mi domicilio el cheque de Google con el pago
+por los ingresos generados utilizando el programa &lt;a href=&#34;https://www.google.com/adsense/?sourceid=aso&amp;amp;subid=WW-ET-ADSBY2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AdSense&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Me adherí a ese programa en enero de 2005. Más de un año después, acumulé
+ingresos por más de 100 dólares estadounidenses, requisito para efectuar el pago.&lt;/p&gt;
+&lt;p&gt;Quiero agradecer a todos los amigos que visitaron este blog miles de veces
+durante este tiempo. Gracias a su perseverancia y generosidad, este cheque fue
+posible.&lt;/p&gt;
+&lt;p&gt;Por supuesto, también debo agradecer a todos los anunciantes que publicaron sus
+avisos aqui, quienes pusieron el dinero. Y obviamente, también a Google, el
+omnipresente gigante tecnológico que pone creatividad e inteligencia al servicio
+de todos los que usamos la red diariamente.&lt;/p&gt;
+&lt;p&gt;Tal como había anunciado por ahí, este dinero se destinará a la compra de una
+cámara digital de fotos, ya que mi vieja y fiel Nikon está quedando obsoleta.&lt;/p&gt;
+&lt;p&gt;Sin dudas esta futura incorporación se verá reflejada en los posts de este blog.&lt;/p&gt;
+&lt;p&gt;Si quieren recomendar cámaras de menos de US$ 300, agradeceré que lo hagan.&lt;/p&gt;
+&lt;p&gt;Por ahora tengo como candidatas a las Canon PowerShot A520 y A610.&lt;/p&gt;
+&lt;p&gt;Veremos si podemos concretar alguna de ellas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1000&#43; visitas</title>
+      <link>https://carlevaro.ar/post/1000-visitas/</link>
+      <pubDate>Fri, 01 Jul 2005 01:36:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/1000-visitas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://photos1.blogger.com/blogger/4304/163/1600/BlogStat1.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://photos1.blogger.com/blogger/4304/163/320/BlogStat.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hoy el contador de visitas de este blog marcó el número 1000.&lt;/p&gt;
+&lt;p&gt;Quiero agradecer a todos los que pasaron a mirar qué anda pasando por mi vida y
+la de mi familia y amigos. Me gusta compartir estos pequeños fragmentos de nuestra historia.&lt;/p&gt;
+&lt;p&gt;He tenido mucha interacción con los que visitan este blog, a través de email,
+chat o personalmente, aunque poco a través de este mismo medio (utilizando los comentarios).&lt;/p&gt;
+&lt;p&gt;Esta experiencia resulta muy enriquecedora, y me ha soprendido que llegue hasta tan lejos.&lt;/p&gt;
+&lt;p&gt;Por supuesto, agradezco también a quienes aportan desde los clicks en los avisos
+de &lt;a href=&#34;https://www.google.com/adsense/default&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&lt;/a&gt;. De a poco se van sumando algunos dólares.&lt;/p&gt;
+&lt;p&gt;Desde el 19 de enero de 2005, hubo (al momento de escribir este post) 1.001
+visitas y 562 visitantes únicos. De ellos, 357 visitaron la página una sola vez,
+mientras que 205 repitieron la visita.&lt;/p&gt;
+&lt;p&gt;El sistema de monitoreo que tengo de este sitio (&lt;a href=&#34;http://www.statcounter.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StatCounter&lt;/a&gt;) tiene sus
+limitaciones (pues utilizo la versión gratis), y con excepción de números globales,
+solo almacena datos específicos de las últimas 100 visitas.&lt;/p&gt;
+&lt;p&gt;En la imagen pueden verse ciertos detalles de estos números para mostrar algunas
+características de los que visitan el blog (clickeado sobre la imagen se ve ampliada).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inicio</title>
+      <link>https://carlevaro.ar/post/inicio/</link>
+      <pubDate>Tue, 18 Jan 2005 13:55:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/inicio/</guid>
+      <description>&lt;p&gt;Estoy armando este blog con el propósito de publicar online las fotos de mi
+familia y amigos.&lt;/p&gt;
+&lt;p&gt;Ocasionalmente, incluiré también algún comentario o texto que me parezca que
+vale la pena hacer público.&lt;/p&gt;
+&lt;p&gt;Cualquier comentario que quieran dejar aqui, en cada post, será bienvenido.&lt;/p&gt;
+&lt;p&gt;A los amigos que quieran participar enriqueciendo este blog, escríbanme un mail.&lt;/p&gt;
+&lt;p&gt;Hagamos de este pequeño sitio un lugar de encuentro.&lt;/p&gt;
+&lt;p&gt;Manux.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

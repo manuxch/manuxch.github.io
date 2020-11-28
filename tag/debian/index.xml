@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debian | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/tag/debian/</link>
+      <atom:link href="https://carlevaro.ar/tag/debian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Debian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Tue, 12 Apr 2011 01:25:40 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Debian</title>
+      <link>https://carlevaro.ar/tag/debian/</link>
+    </image>
+    
+    <item>
+      <title>20 años de Linux</title>
+      <link>https://carlevaro.ar/post/20-anos-de-linux/</link>
+      <pubDate>Tue, 12 Apr 2011 01:25:40 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/20-anos-de-linux/</guid>
+      <description>&lt;p&gt;Comencé a usar linux hace 15 años, al iniciar mi doctorado en el &lt;a href=&#34;http://www.iflysib.unlp.edu.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto de Física de Líquidos y Sistemas Biológicos&lt;/a&gt; de La Plata.&lt;/p&gt;
+&lt;p&gt;En ese entonces solo lo usaba para correr simulaciones en máquinas específicas para cálculo, mientras que en mi escritorio usaba los Windows NT y 98.&lt;/p&gt;
+&lt;p&gt;En el 2003 comencé a trabajar en la &lt;a href=&#34;http://www.arn.gov.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autoridad Regulatoria Nuclear&lt;/a&gt;, y me encontré entonces que mis libertades piratas estaban muy recortadas, pues no podía instalar allí nada que no tuviese licencia legal.&lt;/p&gt;
+&lt;p&gt;Ese concepto novedoso (el de usar software legal), junto con mi reciente paternidad, me hizo reflexionar sobre qué sistema operativo utilizaría en casa.&lt;/p&gt;
+&lt;p&gt;En ese entonces acepté un desafío proveniente de mi viejo amigo Alf, que me dijo &amp;ldquo;instalá un Linux, usalo una semana, y vas a ver que no vas a querer usar nunca más un Window$&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Así fue. Hice algunos intento de instalar &lt;a href=&#34;http://www.gentoo.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gentoo&lt;/a&gt;, pero sin banda ancha en casa, y sin experiencia, resultó inútil.&lt;/p&gt;
+&lt;p&gt;Me pasé entonces a &lt;a href=&#34;http://www.debian.org/index.es.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debian&lt;/a&gt;, y sigo fiel a esa célebre distro desde entonces. No solo ha resuelto todas mis necesidades computacionales, sino que además me ha permitido construir buenas amistades en la comunidad informática.&lt;/p&gt;
+&lt;p&gt;Ahora Linux cumple 20 años, y en &lt;a href=&#34;http://www.linuxfoundation.org/20th/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Linux Foundation&lt;/a&gt; prepararon este lindo video por la ocasión. Lástima que solo lo encontré en inglés.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/5ocq6_3-nEw?autoplay=1&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

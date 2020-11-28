@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ernesto R. Caffarena | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/author/ernesto-r.-caffarena/</link>
+      <atom:link href="https://carlevaro.ar/author/ernesto-r.-caffarena/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ernesto R. Caffarena</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Sat, 01 Aug 1998 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ernesto R. Caffarena</title>
+      <link>https://carlevaro.ar/author/ernesto-r.-caffarena/</link>
+    </image>
+    
+    <item>
+      <title>Hydration properties of xylitol: computer simulation</title>
+      <link>https://carlevaro.ar/publication/carlevaro-1998/</link>
+      <pubDate>Sat, 01 Aug 1998 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/carlevaro-1998/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

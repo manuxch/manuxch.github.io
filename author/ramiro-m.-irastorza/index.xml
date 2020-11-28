@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramiro M. Irastorza | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/author/ramiro-m.-irastorza/</link>
+      <atom:link href="https://carlevaro.ar/author/ramiro-m.-irastorza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ramiro M. Irastorza</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ramiro M. Irastorza</title>
+      <link>https://carlevaro.ar/author/ramiro-m.-irastorza/</link>
+    </image>
+    
+    <item>
+      <title>Uncertainties and temperature correction in molecular dynamic simulations of dielectric properties of condensed polar systems</title>
+      <link>https://carlevaro.ar/publication/sanchez-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/sanchez-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of the trabecular bone microstructure on measuring its thermal conductivity: A computer modeling-based study</title>
+      <link>https://carlevaro.ar/publication/fajardo-2018-b/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/fajardo-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Cancellous Bone Dielectric Variability on Microwaves Detection Feasibility. A Simulation Study</title>
+      <link>https://carlevaro.ar/publication/fajardo-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/fajardo-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chirality in a quaternionic representation of the genetic code</title>
+      <link>https://carlevaro.ar/publication/carlevaro-2016-b/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/carlevaro-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quaternionic representation of the genetic code</title>
+      <link>https://carlevaro.ar/publication/carlevaro-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/carlevaro-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of the dielectric properties of trabecular bone samples at microwave frequency</title>
+      <link>https://carlevaro.ar/publication/irastorza-2014/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/irastorza-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact predictions from the Edwards ensemble versus realistic simulations of tapped narrow two-dimensional granular columns</title>
+      <link>https://carlevaro.ar/publication/irastorza-2013-b/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/irastorza-2013-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

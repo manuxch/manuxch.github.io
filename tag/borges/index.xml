@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Borges | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/tag/borges/</link>
+      <atom:link href="https://carlevaro.ar/tag/borges/index.xml" rel="self" type="application/rss+xml" />
+    <description>Borges</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Sun, 04 Jul 2010 21:33:49 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Borges</title>
+      <link>https://carlevaro.ar/tag/borges/</link>
+    </image>
+    
+    <item>
+      <title>Destino</title>
+      <link>https://carlevaro.ar/post/destino/</link>
+      <pubDate>Sun, 04 Jul 2010 21:33:49 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/destino/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Cualquier destino, por largo y complicado que sea, consta en realidad &lt;em&gt;de un solo momento&lt;/em&gt;: el momento en el que el hombre sabe para siempre quién es.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Jorge Luis Borges. &lt;strong&gt;El Aleph&lt;/strong&gt;. Alianza Editorial, Madrid, 1997. Página 65.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>El olvido</title>
+      <link>https://carlevaro.ar/post/el-olvido/</link>
+      <pubDate>Sat, 29 May 2010 22:16:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/el-olvido/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Temí que no quedara una sola cosa capaz de sorprenderme, temí que no me abandonara jamás la impresión de volver. Felizmente, al cabo de unas noches de insomnio, me trabajó otra vez el olvido.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Jorge Luis Borges. &lt;strong&gt;El Aleph&lt;/strong&gt;. Alianza Editorial, Madrid, 1997. Página 195.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

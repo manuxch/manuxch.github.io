@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danilo G. Renzi | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/author/danilo-g.-renzi/</link>
+      <atom:link href="https://carlevaro.ar/author/danilo-g.-renzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Danilo G. Renzi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Danilo G. Renzi</title>
+      <link>https://carlevaro.ar/author/danilo-g.-renzi/</link>
+    </image>
+    
+    <item>
+      <title>Clustering and percolation theory for continuum systems: Clusters with nonspecific bonds and a residence time in their definition</title>
+      <link>https://carlevaro.ar/publication/vericat-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/vericat-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum hypernetted chain approximation for one-dimensional fermionic systems</title>
+      <link>https://carlevaro.ar/publication/stoico-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/stoico-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

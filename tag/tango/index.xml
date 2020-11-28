@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tango | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/tag/tango/</link>
+      <atom:link href="https://carlevaro.ar/tag/tango/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tango</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Tue, 20 Apr 2010 13:00:37 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tango</title>
+      <link>https://carlevaro.ar/tag/tango/</link>
+    </image>
+    
+    <item>
+      <title>Fuga y misterio</title>
+      <link>https://carlevaro.ar/post/fuga-misterio/</link>
+      <pubDate>Tue, 20 Apr 2010 13:00:37 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/fuga-misterio/</guid>
+      <description>&lt;p&gt;Algo de la mejor música. Esta vez, no de Brasil, sino bien argentina.&lt;/p&gt;
+&lt;p&gt;Para mí, &lt;a href=&#34;http://es.wikipedia.org/wiki/Astor_Piazzolla&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Astor Piazzolla&lt;/a&gt; es uno
+de los grandes compositores de la historia de la música. De sus composiciones,
+&lt;em&gt;Fuga y misterio&lt;/em&gt; es de las que más me gusta. Aquí va.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/7XdaFR6mIC4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

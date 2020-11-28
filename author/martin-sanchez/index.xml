@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martín Sánchez | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/author/martin-sanchez/</link>
+      <atom:link href="https://carlevaro.ar/author/martin-sanchez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martín Sánchez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Martín Sánchez</title>
+      <link>https://carlevaro.ar/author/martin-sanchez/</link>
+    </image>
+    
+    <item>
+      <title>Numerical simulation of proppant transport in a planar fracture. A study of perforation placement and injection strategy</title>
+      <link>https://carlevaro.ar/publication/baldini-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/baldini-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear dynamic analysis of an optimal particle damper</title>
+      <link>https://carlevaro.ar/publication/sanchez-2013-b/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/sanchez-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of particle shape and fragmentation on the response of particle dampers</title>
+      <link>https://carlevaro.ar/publication/sanchez-2013/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/sanchez-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

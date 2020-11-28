@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/tag/eclipse/</link>
+      <atom:link href="https://carlevaro.ar/tag/eclipse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eclipse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Mon, 21 Apr 2014 00:22:44 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Eclipse</title>
+      <link>https://carlevaro.ar/tag/eclipse/</link>
+    </image>
+    
+    <item>
+      <title>Eclipse de luna</title>
+      <link>https://carlevaro.ar/post/eclipse-de-luna/</link>
+      <pubDate>Mon, 21 Apr 2014 00:22:44 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/eclipse-de-luna/</guid>
+      <description>&lt;p&gt;No quise ser menos, e intenté yo también capturar alguna foto de este
+particular eclipse que pintó la Luna de rojo.&lt;/p&gt;
+&lt;p&gt;No me salió bien, no tenía pensado hacerlo y no preparé las fotos. Sin un buen
+trípode, ni bloqueo de espejo para disminuir vibraciones, los resultados fueron
+previsibles.&lt;/p&gt;
+&lt;p&gt;Sin embargo, sin mucho orgullo pero para dar testimonio del esfuerzo, les
+muestro la única foto que me atrevo a publicar.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://flic.kr/p/neewT3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7206/13933246912_29645918fb_z.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

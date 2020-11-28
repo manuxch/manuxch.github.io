@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Quantum wires&#34; | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/tag/quantum-wires/</link>
+      <atom:link href="https://carlevaro.ar/tag/quantum-wires/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Quantum wires&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Mon, 01 Mar 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Quantum wires&#34;</title>
+      <link>https://carlevaro.ar/tag/quantum-wires/</link>
+    </image>
+    
+    <item>
+      <title>Quantum hypernetted chain approximation for one-dimensional fermionic systems</title>
+      <link>https://carlevaro.ar/publication/stoico-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/stoico-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

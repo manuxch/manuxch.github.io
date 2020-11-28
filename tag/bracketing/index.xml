@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bracketing | Carlevaro.ar</title>
+    <link>https://carlevaro.ar/tag/bracketing/</link>
+      <atom:link href="https://carlevaro.ar/tag/bracketing/index.xml" rel="self" type="application/rss+xml" />
+    <description>bracketing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Mon, 15 Nov 2010 01:10:48 +0000</lastBuildDate>
+    <image>
+      <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>bracketing</title>
+      <link>https://carlevaro.ar/tag/bracketing/</link>
+    </image>
+    
+    <item>
+      <title>Más estadio</title>
+      <link>https://carlevaro.ar/post/mas-estadio/</link>
+      <pubDate>Mon, 15 Nov 2010 01:10:48 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/mas-estadio/</guid>
+      <description>&lt;p&gt;Sigo practicando la toma nocturna de fotos, con su posterior procesamiento. De paso, aprovecho para registrar el progreso en la colocación del techo del Estadio Ciudad de La Plata.&lt;/p&gt;
+&lt;p&gt;Esta imagen la armé con fotos tomadas anoche, usando las herramientas mencionadas en los posts anteriores (&lt;a href=&#34;https://carlevaro.ar/post/estadio-unico-de-la-plata/&#34;&gt;aquí&lt;/a&gt; y &lt;a href=&#34;https://carlevaro.ar/post/progreso/&#34;&gt;aquí&lt;/a&gt;), aunque regulando a mano el tiempo de exposición de las fotos, sin utilizar el CHDK.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://picasaweb.google.com/lh/photo/H_O5b10BfSTMM3PMwO_AhA?feat=embedwebsite&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/_kjktWGBKtT8/TVs13rxyyhI/AAAAAAAAEYE/5t8PYXFuLFs/s400/eu101114.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://img529.imageshack.us/img529/1989/eulp01.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aquí&lt;/a&gt; se puede ver en su tamaño completo, y &lt;a href=&#34;https://photos.app.goo.gl/5KoNW4x5UAWiYodM7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aquí&lt;/a&gt; el álbum con las fotos previas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Progreso</title>
+      <link>https://carlevaro.ar/post/progreso/</link>
+      <pubDate>Sun, 26 Sep 2010 18:33:38 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/progreso/</guid>
+      <description>&lt;p&gt;Jugando nuevamente con el &lt;em&gt;Exposure Blending&lt;/em&gt; de &lt;a href=&#34;http://www.digikam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;digiKam&lt;/a&gt;, armé esta foto del &lt;a href=&#34;http://www.estadiolp.gba.gov.ar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estadio Ciudad de La Plata&lt;/a&gt;
+tomando varias fotos con diferentes tiempos de exposición.&lt;/p&gt;
+&lt;p&gt;Puede apreciarse el progreso en la colocación del techo del estadio comparado con la imagen que publiqué &lt;a href=&#34;https://carlevaro.ar/post/estadio-unico-de-la-plata/&#34;&gt;antes&lt;/a&gt;. ¿Será que muestra también el progreso en mi técnica?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://picasaweb.google.com/lh/photo/Z2nX-ebot0Ti9h4luSTB1Q?feat=embedwebsite&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/_kjktWGBKtT8/TVs1ljSqZYI/AAAAAAAAEX4/O8glQM4RBcY/s400/eu100919.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Una imagen con mayor resolución puede verse &lt;a href=&#34;http://img40.imageshack.us/img40/1857/estlaplata2.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estadio Ciudad de La Plata</title>
+      <link>https://carlevaro.ar/post/estadio-unico-de-la-plata/</link>
+      <pubDate>Fri, 13 Aug 2010 13:00:12 +0000</pubDate>
+      <guid>https://carlevaro.ar/post/estadio-unico-de-la-plata/</guid>
+      <description>&lt;p&gt;Luego de descubrir el Canon Hack Development Kit (&lt;a href=&#34;http://chdk.wikia.com/wiki/CHDK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CHDK&lt;/a&gt;)
+tengo mucho por experimentar con mi vieja Powershot A610.&lt;/p&gt;
+&lt;p&gt;Tomar fotos de escenas nocturnas es complicado por la diferencia de brillo de diferentes objetos.
+Una manera de &amp;ldquo;trabajar&amp;rdquo; este efecto es utilizando la técnica de &amp;ldquo;&lt;a href=&#34;http://es.wikipedia.org/wiki/Bracketing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bracketing&lt;/a&gt;&amp;rdquo;,
+que consiste en tomar varias fotos con, por ejemplo, diferentes tiempos de exposición,
+y luego mezclar estas fotos con la intención de hacer pareja la luminosidad en la imagen.&lt;/p&gt;
+&lt;p&gt;En mi primer intento de usar esta técnica tomé como objeto la vista desde la terraza
+de mi edificio del &lt;a href=&#34;http://www.estadiolp.gba.gov.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estadio Ciudad de La Plata&lt;/a&gt;, al cual actualmente se le está
+colocando el techo.&lt;/p&gt;
+&lt;p&gt;Hice tres fotos con diferentes tiempos de exposición, y finalmente hice el mezclado con el plugin &lt;em&gt;Exposure Blending&lt;/em&gt; de &lt;a href=&#34;http://www.digikam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;digiKam&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;El resultado no me deja muy satisfecho, pero es el primero. Espero mejorar.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://picasaweb.google.com/lh/photo/NOkzaJhsEKDyR_2dh9O9KQ?feat=embedwebsite&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://lh4.ggpht.com/_kjktWGBKtT8/TGCerzn8-uI/AAAAAAAAERU/tEhVfl1NI50/s400/estUnico.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Una imagen con mayor resolución puede descargarse de &lt;a href=&#34;http://a.imageshack.us/img5/8286/estunico.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
