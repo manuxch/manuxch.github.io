@@ -5,7 +5,7 @@
     <link>https://carlevaro.ar/</link>
       <atom:link href="https://carlevaro.ar/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlevaro.ar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-ar</language><copyright>© Manuel Carlevaro 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Carlevaro.ar</title>
@@ -123,6 +123,14 @@ que tenía en WordPress, aunque hubo que retocar bastante el tema de las fotos.&
     </item>
     
     <item>
+      <title>Proyecto 497: Transporte y estabilidad del agente de sostén en fracturas no convencionales</title>
+      <link>https://carlevaro.ar/publication/ytec-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/ytec-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>https://carlevaro.ar/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -165,6 +173,14 @@ que tenía en WordPress, aunque hubo que retocar bastante el tema de las fotos.&
     </item>
     
     <item>
+      <title>Resumen anual de las actividades desarrolladas durante el primer año de ejecución del proyecto Transporte y estabilidad del agente de sostén en fracturas no convencionales</title>
+      <link>https://carlevaro.ar/publication/ytec-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/ytec-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Structure of force networks in tapped particulate systems of disks and pentagons. I. Clusters and loops</title>
       <link>https://carlevaro.ar/publication/pugnaloni-2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
@@ -193,6 +209,14 @@ que tenía en WordPress, aunque hubo que retocar bastante el tema de las fotos.&
       <link>https://carlevaro.ar/publication/goldberg-2015/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://carlevaro.ar/publication/goldberg-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Especificación de requerimientos y funcionalidades del software a desarrollar en el marco del proyecto Transporte y estabilidad del agente de sostén en fracturas no convencionales</title>
+      <link>https://carlevaro.ar/publication/ytec-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/ytec-2015/</guid>
       <description></description>
     </item>
     
