@@ -5,12 +5,20 @@
     <link>https://carlevaro.ar/</link>
       <atom:link href="https://carlevaro.ar/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlevaro.ar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-ar</language><copyright>© Manuel Carlevaro 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-ar</language><copyright>© Manuel Carlevaro 2021</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Carlevaro.ar</title>
       <link>https://carlevaro.ar/</link>
     </image>
+    
+    <item>
+      <title>Enhancement of the flow of vibrated grains through narrow apertures by addition of small particles</title>
+      <link>https://carlevaro.ar/publication/madrid-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/madrid-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stability and conductivity of proppant packs during flowback in unconventional reservoirs: A CFD–DEM simulation study</title>
