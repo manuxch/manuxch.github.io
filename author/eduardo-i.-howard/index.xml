@@ -5,12 +5,20 @@
     <link>https://carlevaro.ar/author/eduardo-i.-howard/</link>
       <atom:link href="https://carlevaro.ar/author/eduardo-i.-howard/index.xml" rel="self" type="application/rss+xml" />
     <description>Eduardo I. Howard</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-ar</language><copyright>© Manuel Carlevaro 2021</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-ar</language><copyright>© Manuel Carlevaro 2021</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Eduardo I. Howard</title>
       <link>https://carlevaro.ar/author/eduardo-i.-howard/</link>
     </image>
+    
+    <item>
+      <title>Molecular dynamics simulation of the heart type fatty acid binding protein in a crystal environment</title>
+      <link>https://carlevaro.ar/publication/espinosa-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/espinosa-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Molecular dynamics simulation of the heart type fatty acid binding protein in a crystal environment</title>

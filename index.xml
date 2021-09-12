@@ -5,12 +5,20 @@
     <link>https://carlevaro.ar/</link>
       <atom:link href="https://carlevaro.ar/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlevaro.ar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-ar</language><copyright>© Manuel Carlevaro 2021</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-ar</language><copyright>© Manuel Carlevaro 2021</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://carlevaro.ar/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Carlevaro.ar</title>
       <link>https://carlevaro.ar/</link>
     </image>
+    
+    <item>
+      <title>Molecular dynamics simulation of the heart type fatty acid binding protein in a crystal environment</title>
+      <link>https://carlevaro.ar/publication/espinosa-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/espinosa-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhancement of the flow of vibrated grains through narrow apertures by addition of small particles</title>
@@ -25,6 +33,14 @@
       <link>https://carlevaro.ar/publication/vega-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://carlevaro.ar/publication/vega-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Approaches to Quantification of Force Networks in Particulate Systems</title>
+      <link>https://carlevaro.ar/publication/basak-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/basak-2021/</guid>
       <description></description>
     </item>
     
@@ -56,6 +72,14 @@ pocas) pude tener el sitio como yo quería, y además recuperar todos los posts
 que tenía en WordPress, aunque hubo que retocar bastante el tema de las fotos.&lt;/p&gt;
 &lt;p&gt;Así que ahora tengo un nuevo rincón en la web para usar como presentación.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Microwave tomography with phaseless data on the calcaneus by means of artificial neural networks</title>
+      <link>https://carlevaro.ar/publication/fajardo-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://carlevaro.ar/publication/fajardo-2020/</guid>
+      <description></description>
     </item>
     
     <item>
