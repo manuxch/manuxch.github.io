@@ -1,0 +1,36 @@
+/* css styles */
+
+/* Contenedor de íconos */
+.icon-links {
+  display: flex;               /* Usa flexbox para organizar los íconos */
+  justify-content: center;     /* Centra los íconos horizontalmente */
+  align-items: center;         /* Centra los íconos verticalmente */
+  gap: 20px;                   /* Espaciado entre íconos */
+  margin-top: 20px;            /* Espacio superior opcional */
+}
+
+/* Estilo de los íconos */
+.icon-links .iconify {
+  font-size: 2rem;             /* Tamaño de los íconos */
+  color: #007bff;             /* Color de los íconos */
+  transition: color 0.3s;      /* Suaviza el cambio de color */
+}
+
+/* Efecto hover en los íconos */
+.icon-links a:hover .iconify {
+  color: #0056b3;              /* Cambia el color cuando pasas el mouse */
+}
+
+.sponsors {
+  display: flex;
+  flex-wrap: wrap; /* Permite que los logos pasen a la siguiente línea si son demasiados */
+  justify-content: center;
+  gap: 20px; /* Espaciado entre logos */
+  margin-top: 20px;
+}
+
+.sponsor-logo {
+  height: 80px; /* Ajusta el tamaño de los logos */
+  object-fit: contain; /* Escala sin deformar */
+  max-width: 150px; /* Máximo ancho para evitar logos desproporcionados */
+}
