@@ -34,3 +34,12 @@
   object-fit: contain; /* Escala sin deformar */
   max-width: 150px; /* Máximo ancho para evitar logos desproporcionados */
 }
+
+.quarto-footer {
+  text-align: center; /* Centra el texto */
+  font-size: 0.9em;   /* Ajusta el tamaño del texto */
+  color: #555;        /* Cambia el color a un tono gris */
+  padding: 10px 0;    /* Añade espacio alrededor del texto */
+  border-top: 1px solid #ddd; /* Línea superior para separar */
+}
+
