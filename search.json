@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "C. Manuel Carlevaro",
-    "section": "",
-    "text": "Soy físico, con intreses diversos de investigación en los campos de la biofísica, de la física de la materia granular y los sistemas complejos.\nActualmente soy Investigador Independiente en el Instituto de Física de Líquidos y Sistemas Biológicos que depende del CONICET y de la Universidad Nacional de La Plata.\nTambién soy Profesor Titular en la Facultad Regional La Plata de la Universidad Tecnológica Nacional, donde dirijo el Grupo de Materiales Granulares y tengo a mi cargo la materia Cálculo Avanzado en el Departamento de Ingeniería Mecánica."
-  },
-  {
-    "objectID": "index.html#educación",
-    "href": "index.html#educación",
-    "title": "C. Manuel Carlevaro",
-    "section": "Educación",
-    "text": "Educación\n\nDoctorado en Física, 2002\nUniversidad Nacional de La Plata, La Plata, Argentina\nLicenciado en Física, 1995\nUniversidad Nacional de Rosario, Rosario, Argentina\nBachiller en Ciencias Biológicas, 1985\nEscuela Normal Superior José María Torres, Paraná, Argentina"
-  },
-  {
-    "objectID": "index.html#intereses",
-    "href": "index.html#intereses",
-    "title": "C. Manuel Carlevaro",
-    "section": "Intereses",
-    "text": "Intereses\n\nModelado y simulación computacional\nFluidos confinados\nMateriales granulares\nBiofísica\nSistemas complejos"
-  },
-  {
-    "objectID": "index.html#sponsors",
-    "href": "index.html#sponsors",
-    "title": "C. Manuel Carlevaro",
-    "section": "Sponsors",
-    "text": "Sponsors\nInstituciones y organizaciones que apoyan mi trabajo:"
-  },
-  {
     "objectID": "publicaciones.html",
     "href": "publicaciones.html",
     "title": "Publicaciones con referato",
@@ -56,11 +28,32 @@
     "text": "Cursos de posgrado\n\nHerramientas Computacionales para Científicos (HCC). Curso de posgrado válido para el doctorado de la Facultad de Ciencias Exactas y Facultad de Ciencias Astronómicas y Geofísicas de la Universidad Nacional de La Plata, y para el doctorado en Ingeniería de la Universidad Tecnológica Nacional. Coordinadores: Dr. Manuel Carlevaro y Dr. Ramiro Irastorza (desde 2018, antes Dr. Luis Pugnaloni). Duración: 70 horas (2007 – 2024).\nPhysics and Applications of Granular Matter. New Jersey Institute of Technology, Department of Mathematical Sciences y Ministerio de Educación de Argentina. Coordinador: Lou Kondic (Distinguished Professor NJIT). Duración: 140 horas (2002).\nHerramientas computacionales para la mecánica estadística. Universidad Nacional de La Pampa, Facultad de Ciencias Exactas y Naturales. Responsables: Dr. Luis Pugnaloni, Dr. Manuel Carlevaro. Duración: 20 horas (2017).\nLíquidos y Sistemas Desordenados. Universidad Nacional de San Luis, Facultad de Ciencias Físico Matemáticas y Naturales. Responsables: Dr. Tomás Grigera y Dr. Manuel Carlevaro. Duración: 20 horas (2015).\nIntroducción a Sistemas Dinámicos y Teoría del Caos. Escuela de Postgrado y Educación Continua. Facultad de Ingeniería, Universidad Nacional de La Plata. Coordinador: Dr. Fernando Vericat. Duración: 60 horas (2007, 2010).\nIntroducción a la programación, al cálculo numérico y a la simulación para científicos. Instituto de Física de Líquidos y Sistemas Biológicos. Facultad de Ciencias Exactas, Universidad Nacional de La Plata. Coordinadores: Dr. Luis Pugnaloni, Dr. Manuel Carlevaro. Duración: 70 horas (2007)."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "C. Manuel Carlevaro",
     "section": "",
-    "text": "About this site"
+    "text": "Soy físico, con intreses diversos de investigación en los campos de la biofísica, de la física de la materia granular y los sistemas complejos.\nActualmente soy Investigador Independiente en el Instituto de Física de Líquidos y Sistemas Biológicos que depende del CONICET y de la Universidad Nacional de La Plata.\nTambién soy Profesor Titular en la Facultad Regional La Plata de la Universidad Tecnológica Nacional, donde dirijo el Grupo de Materiales Granulares y tengo a mi cargo la materia Cálculo Avanzado en el Departamento de Ingeniería Mecánica."
+  },
+  {
+    "objectID": "index.html#educación",
+    "href": "index.html#educación",
+    "title": "C. Manuel Carlevaro",
+    "section": "Educación",
+    "text": "Educación\n\nDoctorado en Física, 2002\nUniversidad Nacional de La Plata, La Plata, Argentina\nLicenciado en Física, 1995\nUniversidad Nacional de Rosario, Rosario, Argentina\nBachiller en Ciencias Biológicas, 1985\nEscuela Normal Superior José María Torres, Paraná, Argentina"
+  },
+  {
+    "objectID": "index.html#intereses",
+    "href": "index.html#intereses",
+    "title": "C. Manuel Carlevaro",
+    "section": "Intereses",
+    "text": "Intereses\n\nModelado y simulación computacional\nFluidos confinados\nMateriales granulares\nBiofísica\nSistemas complejos"
+  },
+  {
+    "objectID": "index.html#sponsors",
+    "href": "index.html#sponsors",
+    "title": "C. Manuel Carlevaro",
+    "section": "Sponsors",
+    "text": "Sponsors\nInstituciones y organizaciones que apoyan mi trabajo:"
   },
   {
     "objectID": "info.html",
@@ -89,5 +82,12 @@
     "title": "Manuel Carlevaro",
     "section": "Estudiantes",
     "text": "Estudiantes\n\n\n \n Santiago Mosca: Universidad Tecnológica Nacional (Doctorado, en curso) \n Lucas Basiuk: Univesidad Tecnológica Nacional (Doctorado, en curso) \n César Gracia: Univesidad Tecnológica Nacional (Doctorado, en curso) \n Julián Montero: Universidad Nacional de La Plata (Doctorado, en curso) \n Kevin Gabriel Tomás: Universidad Nacional de La Plata (Doctorado, en curso) \n Mariano Esteban Martín Ramírez: CONICET - YTEC S.A. (Posdoctorado, en curso) \n Luciana Luque: CONICET (Posdoctorado, 2020 - 2023) \n Yanis Ricardo Espinosa Silva: CONICET (Posdoctorado, 2017 - 2022) \n Federico Lotto: CONICET (Posdoctorado, 2017 - 2020) \n Federico Vega: CONICET (Posdoctorado, 2017 - 2020) \n Marcos Andrés Madrid: CONICET (Posdoctorado, 2013 - 2015) \n Ramiro Miguel Irastorza: CONICET (Posdoctorado, 2010 - 2012)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

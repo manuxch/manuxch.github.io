@@ -31,7 +31,7 @@
 
 .sponsor-logo {
   height: 80px; /* Ajusta el tamaño de los logos */
-  object-fit: contain; /* Escala sin deformar */
+  object-fit: contain; /* Escala sin deformar */ 
   max-width: 150px; /* Máximo ancho para evitar logos desproporcionados */
 }
 
