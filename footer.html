@@ -1,0 +1,14 @@
+<footer style="text-align: center; padding: 20px; margin-top: 40px; border-top: 1px solid #ccc;">
+  <p>
+    Hecho con <a href="https://quarto.org/" target="_blank">Quarto</a>.
+    <br>
+    Última modificación: <span id="last-modified"></span>
+  </p>
+</footer>
+
+<script>
+  // Obtener la fecha de última modificación del documento
+  const lastModified = document.lastModified;
+  // Insertar la fecha en el elemento con id "last-modified"
+  document.getElementById("last-modified").textContent = lastModified;
+</script>

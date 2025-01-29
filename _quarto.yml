@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Manuel Carlevaro"
+  site-url: "https://carlevaro.ar"
+  navbar: 
+    right:
+      - href: index.qmd
+        text: Home
+      - href: info.qmd
+        text: Info
+      - href: publicaciones.qmd
+        text: Publicaciones
+      - href: cursos.qmd
+        text: Cursos
+
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: flatly
+    css: styles.css
+    include-after-body: _templates/footer.html
+    toc: false
+    include-in-header: custom-header.html
+    html-metadata:
+      - name: icons
+        use: fontawesome 
+
+metadata-files:
+  - _metadata.yaml
