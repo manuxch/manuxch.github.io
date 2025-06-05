@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "info.html",
+    "href": "info.html",
+    "title": "Manuel Carlevaro",
+    "section": "",
+    "text": "Al finalizar la escuela secundaria en Paraná, comencé mis estudios universitarios cursando simultáneamente dos carreras: Ingeniería Electromecánica en la Universidad Tecnológica Nacional, y Bioingeniería en la Universidad Nacional de Entre Ríos. Pero yo realmente quería estudiar física, por lo que en el año 1990 me mudé a la ciudad de Rosario.\nMe gradué de Licenciado en Física por la Universidad Nacional de Rosario en 1995, y luego obtuve mi doctorado por la Facultad de Ciencias Exactas de la Universidad Nacional de La Plata en 2002, gracias a una beca doctoral de CONICET.\nDespués de completar mi doctorado, trabajé como investigador en el Programa de Agronegocios y Alimentos de la Universidad de Buenos Aires (2001 – 2003) realizando modelos computacionales de cadenas agroalimentarias. Posteriormente trabajé en la Autoridad Regulatoria Nuclear (2003 – 2007) en proyectos vinculados al Tratado de Prohibición Completa de Ensayos Nucleares.\nEn 2007 ingresé como Investigador Asistente de CONICET en el Instituto de Física de Líquidos y Sistemas Biológicos (IFLySiB), que depende de CONICET y de la Universidad Nacional de La Plata, donde trabajo actualmente, pero ahora como Investigador Independiente.\nComo docente trabajé, entre 1993 y 1996, en la Universidad Nacional de Rosario (en las facultades de Ingeniería, Medicina, Veterinaria, y Bioquímica y Farmacia), también en la Facultad de Ciencias Exactas de la Universidad Nacional de La Plata, entre 1997 y 2001. En 2005 comencé como Profesor Adjunto en la Facultad Regional Buenos Aires de la Universidad Tecnológica Nacional, dictando la asignatura Física II, y desde 2018 trabajo como Profesor Titular en la Facultad Regional La Plata de la misma universidad, dando cursos de grado (actualmente Cálculo Avanzado) y también de posgrado."
+  },
+  {
+    "objectID": "info.html#mini-bio",
+    "href": "info.html#mini-bio",
+    "title": "Manuel Carlevaro",
+    "section": "",
+    "text": "Al finalizar la escuela secundaria en Paraná, comencé mis estudios universitarios cursando simultáneamente dos carreras: Ingeniería Electromecánica en la Universidad Tecnológica Nacional, y Bioingeniería en la Universidad Nacional de Entre Ríos. Pero yo realmente quería estudiar física, por lo que en el año 1990 me mudé a la ciudad de Rosario.\nMe gradué de Licenciado en Física por la Universidad Nacional de Rosario en 1995, y luego obtuve mi doctorado por la Facultad de Ciencias Exactas de la Universidad Nacional de La Plata en 2002, gracias a una beca doctoral de CONICET.\nDespués de completar mi doctorado, trabajé como investigador en el Programa de Agronegocios y Alimentos de la Universidad de Buenos Aires (2001 – 2003) realizando modelos computacionales de cadenas agroalimentarias. Posteriormente trabajé en la Autoridad Regulatoria Nuclear (2003 – 2007) en proyectos vinculados al Tratado de Prohibición Completa de Ensayos Nucleares.\nEn 2007 ingresé como Investigador Asistente de CONICET en el Instituto de Física de Líquidos y Sistemas Biológicos (IFLySiB), que depende de CONICET y de la Universidad Nacional de La Plata, donde trabajo actualmente, pero ahora como Investigador Independiente.\nComo docente trabajé, entre 1993 y 1996, en la Universidad Nacional de Rosario (en las facultades de Ingeniería, Medicina, Veterinaria, y Bioquímica y Farmacia), también en la Facultad de Ciencias Exactas de la Universidad Nacional de La Plata, entre 1997 y 2001. En 2005 comencé como Profesor Adjunto en la Facultad Regional Buenos Aires de la Universidad Tecnológica Nacional, dictando la asignatura Física II, y desde 2018 trabajo como Profesor Titular en la Facultad Regional La Plata de la misma universidad, dando cursos de grado (actualmente Cálculo Avanzado) y también de posgrado."
+  },
+  {
+    "objectID": "info.html#financiamiento",
+    "href": "info.html#financiamiento",
+    "title": "Manuel Carlevaro",
+    "section": "Financiamiento",
+    "text": "Financiamiento\n\n\n \n Estudio de propiedades dinámicas y estructurales de materiales granulares. PID MATCLP10087C (UTN), 2024 - 2027. \n Optimización de consumo de energía en sistema de aireación de silos. FITBA A64, 2023 - 2024. \n Inducción de fibras amiloides por membranas beta-pancreáticas oxidadas en diabetes tipo 2. PIP 11220210100884CO (CONICET), 2022 - 2024. \n Flujo y transporte de material granular en sistemas de interés tecnológico. MAUTILP0007746TC (UTN), 2020 - 2023. \n Estudio de fluidos confinados en sistemas de interés tecnológico. PUE 2018 229 20180100010 CO (Proyecto de Investigación de Unidades Ejecutoras - CONICET), 2019 - 2023. \n Estudio de propiedades dinámicas y estructurales de sistemas granulares. IFI4434TC (UTN), 2017 - 2019. \n Proyecto de adquisición complementaria «Plan de Mejoras del Centro de Cálculo del IFLySiB». MinCyT Res. Nro. 054/15, 2015 - 2018. \n Estudio y análisis de materiales granulares. IFI1871 (UTN), 2013 - 2016. \n Divulgación de actividades científicas a través de CienciaNet. Proyecto de divulgación científico - tecnológica (CONICET), 2013. \n Diseño, implementación y evaluación de situaciones problemáticas abiertas en física básica para ingenieros. UTN1535 (UTN), 2012 - 2013."
+  },
+  {
+    "objectID": "info.html#estudiantes",
+    "href": "info.html#estudiantes",
+    "title": "Manuel Carlevaro",
+    "section": "Estudiantes",
+    "text": "Estudiantes\n\n\n \n Santiago Mosca: Universidad Tecnológica Nacional (Doctorado, en curso) \n Lucas Basiuk: Univesidad Tecnológica Nacional (Doctorado, en curso) \n César Gracia: Univesidad Tecnológica Nacional (Doctorado, en curso) \n Julián Montero: Universidad Nacional de La Plata (Doctorado, en curso) \n Kevin Gabriel Tomás: Universidad Nacional de La Plata (Doctorado, en curso) \n Mariano Esteban Martín Ramírez: CONICET - YTEC S.A. (Posdoctorado, en curso) \n Luciana Luque: CONICET (Posdoctorado, 2020 - 2023) \n Yanis Ricardo Espinosa Silva: CONICET (Posdoctorado, 2017 - 2022) \n Federico Lotto: CONICET (Posdoctorado, 2017 - 2020) \n Federico Vega: CONICET (Posdoctorado, 2017 - 2020) \n Marcos Andrés Madrid: CONICET (Posdoctorado, 2013 - 2015) \n Ramiro Miguel Irastorza: CONICET (Posdoctorado, 2010 - 2012)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "C. Manuel Carlevaro",
@@ -47,40 +82,5 @@
     "title": "Manuel Carlevaro",
     "section": "Cursos de posgrado",
     "text": "Cursos de posgrado\n\nIntroducción a la Física de los Materiales Granulares. Curso de posgrado válido para el Doctorado en Ingeniería, mención Materiales, de la Universidad Tecnológica Nacional. Coordinadores: Dr. Manuel Carlevaro y Dr. Luis Pugnaloni. Duración: 100 horas (2025).\nHerramientas Computacionales para Científicos (HCC). Curso de posgrado válido para el doctorado de la Facultad de Ciencias Exactas y Facultad de Ciencias Astronómicas y Geofísicas de la Universidad Nacional de La Plata, y para el doctorado en Ingeniería de la Universidad Tecnológica Nacional. Coordinadores: Dr. Manuel Carlevaro y Dr. Ramiro Irastorza (desde 2018, antes Dr. Luis Pugnaloni). Duración: 70 horas (2007 – 2024).\nPhysics and Applications of Granular Matter. New Jersey Institute of Technology, Department of Mathematical Sciences y Ministerio de Educación de Argentina. Coordinador: Lou Kondic (Distinguished Professor NJIT). Duración: 140 horas (2002).\nHerramientas computacionales para la mecánica estadística. Universidad Nacional de La Pampa, Facultad de Ciencias Exactas y Naturales. Responsables: Dr. Luis Pugnaloni, Dr. Manuel Carlevaro. Duración: 20 horas (2017).\nLíquidos y Sistemas Desordenados. Universidad Nacional de San Luis, Facultad de Ciencias Físico Matemáticas y Naturales. Responsables: Dr. Tomás Grigera y Dr. Manuel Carlevaro. Duración: 20 horas (2015).\nIntroducción a Sistemas Dinámicos y Teoría del Caos. Escuela de Postgrado y Educación Continua. Facultad de Ingeniería, Universidad Nacional de La Plata. Coordinador: Dr. Fernando Vericat. Duración: 60 horas (2007, 2010).\nIntroducción a la programación, al cálculo numérico y a la simulación para científicos. Instituto de Física de Líquidos y Sistemas Biológicos. Facultad de Ciencias Exactas, Universidad Nacional de La Plata. Coordinadores: Dr. Luis Pugnaloni, Dr. Manuel Carlevaro. Duración: 70 horas (2007)."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "info.html",
-    "href": "info.html",
-    "title": "Manuel Carlevaro",
-    "section": "",
-    "text": "Al finalizar la escuela secundaria en Paraná, comencé mis estudios universitarios cursando simultáneamente dos carreras: Ingeniería Electromecánica en la Universidad Tecnológica Nacional, y Bioingeniería en la Universidad Nacional de Entre Ríos. Pero yo realmente quería estudiar física, por lo que en el año 1990 me mudé a la ciudad de Rosario.\nMe gradué de Licenciado en Física por la Universidad Nacional de Rosario en 1995, y luego obtuve mi doctorado por la Facultad de Ciencias Exactas de la Universidad Nacional de La Plata en 2002, gracias a una beca doctoral de CONICET.\nDespués de completar mi doctorado, trabajé como investigador en el Programa de Agronegocios y Alimentos de la Universidad de Buenos Aires (2001 – 2003) realizando modelos computacionales de cadenas agroalimentarias. Posteriormente trabajé en la Autoridad Regulatoria Nuclear (2003 – 2007) en proyectos vinculados al Tratado de Prohibición Completa de Ensayos Nucleares.\nEn 2007 ingresé como Investigador Asistente de CONICET en el Instituto de Física de Líquidos y Sistemas Biológicos (IFLySiB), que depende de CONICET y de la Universidad Nacional de La Plata, donde trabajo actualmente, pero ahora como Investigador Independiente.\nComo docente trabajé, entre 1993 y 1996, en la Universidad Nacional de Rosario (en las facultades de Ingeniería, Medicina, Veterinaria, y Bioquímica y Farmacia), también en la Facultad de Ciencias Exactas de la Universidad Nacional de La Plata, entre 1997 y 2001. En 2005 comencé como Profesor Adjunto en la Facultad Regional Buenos Aires de la Universidad Tecnológica Nacional, dictando la asignatura Física II, y desde 2018 trabajo como Profesor Titular en la Facultad Regional La Plata de la misma universidad, dando cursos de grado (actualmente Cálculo Avanzado) y también de posgrado."
-  },
-  {
-    "objectID": "info.html#mini-bio",
-    "href": "info.html#mini-bio",
-    "title": "Manuel Carlevaro",
-    "section": "",
-    "text": "Al finalizar la escuela secundaria en Paraná, comencé mis estudios universitarios cursando simultáneamente dos carreras: Ingeniería Electromecánica en la Universidad Tecnológica Nacional, y Bioingeniería en la Universidad Nacional de Entre Ríos. Pero yo realmente quería estudiar física, por lo que en el año 1990 me mudé a la ciudad de Rosario.\nMe gradué de Licenciado en Física por la Universidad Nacional de Rosario en 1995, y luego obtuve mi doctorado por la Facultad de Ciencias Exactas de la Universidad Nacional de La Plata en 2002, gracias a una beca doctoral de CONICET.\nDespués de completar mi doctorado, trabajé como investigador en el Programa de Agronegocios y Alimentos de la Universidad de Buenos Aires (2001 – 2003) realizando modelos computacionales de cadenas agroalimentarias. Posteriormente trabajé en la Autoridad Regulatoria Nuclear (2003 – 2007) en proyectos vinculados al Tratado de Prohibición Completa de Ensayos Nucleares.\nEn 2007 ingresé como Investigador Asistente de CONICET en el Instituto de Física de Líquidos y Sistemas Biológicos (IFLySiB), que depende de CONICET y de la Universidad Nacional de La Plata, donde trabajo actualmente, pero ahora como Investigador Independiente.\nComo docente trabajé, entre 1993 y 1996, en la Universidad Nacional de Rosario (en las facultades de Ingeniería, Medicina, Veterinaria, y Bioquímica y Farmacia), también en la Facultad de Ciencias Exactas de la Universidad Nacional de La Plata, entre 1997 y 2001. En 2005 comencé como Profesor Adjunto en la Facultad Regional Buenos Aires de la Universidad Tecnológica Nacional, dictando la asignatura Física II, y desde 2018 trabajo como Profesor Titular en la Facultad Regional La Plata de la misma universidad, dando cursos de grado (actualmente Cálculo Avanzado) y también de posgrado."
-  },
-  {
-    "objectID": "info.html#financiamiento",
-    "href": "info.html#financiamiento",
-    "title": "Manuel Carlevaro",
-    "section": "Financiamiento",
-    "text": "Financiamiento\n\n\n \n Estudio de propiedades dinámicas y estructurales de materiales granulares. PID MATCLP10087C (UTN), 2024 - 2027. \n Optimización de consumo de energía en sistema de aireación de silos. FITBA A64, 2023 - 2024. \n Inducción de fibras amiloides por membranas beta-pancreáticas oxidadas en diabetes tipo 2. PIP 11220210100884CO (CONICET), 2022 - 2024. \n Flujo y transporte de material granular en sistemas de interés tecnológico. MAUTILP0007746TC (UTN), 2020 - 2023. \n Estudio de fluidos confinados en sistemas de interés tecnológico. PUE 2018 229 20180100010 CO (Proyecto de Investigación de Unidades Ejecutoras - CONICET), 2019 - 2023. \n Estudio de propiedades dinámicas y estructurales de sistemas granulares. IFI4434TC (UTN), 2017 - 2019. \n Proyecto de adquisición complementaria «Plan de Mejoras del Centro de Cálculo del IFLySiB». MinCyT Res. Nro. 054/15, 2015 - 2018. \n Estudio y análisis de materiales granulares. IFI1871 (UTN), 2013 - 2016. \n Divulgación de actividades científicas a través de CienciaNet. Proyecto de divulgación científico - tecnológica (CONICET), 2013. \n Diseño, implementación y evaluación de situaciones problemáticas abiertas en física básica para ingenieros. UTN1535 (UTN), 2012 - 2013."
-  },
-  {
-    "objectID": "info.html#estudiantes",
-    "href": "info.html#estudiantes",
-    "title": "Manuel Carlevaro",
-    "section": "Estudiantes",
-    "text": "Estudiantes\n\n\n \n Santiago Mosca: Universidad Tecnológica Nacional (Doctorado, en curso) \n Lucas Basiuk: Univesidad Tecnológica Nacional (Doctorado, en curso) \n César Gracia: Univesidad Tecnológica Nacional (Doctorado, en curso) \n Julián Montero: Universidad Nacional de La Plata (Doctorado, en curso) \n Kevin Gabriel Tomás: Universidad Nacional de La Plata (Doctorado, en curso) \n Mariano Esteban Martín Ramírez: CONICET - YTEC S.A. (Posdoctorado, en curso) \n Luciana Luque: CONICET (Posdoctorado, 2020 - 2023) \n Yanis Ricardo Espinosa Silva: CONICET (Posdoctorado, 2017 - 2022) \n Federico Lotto: CONICET (Posdoctorado, 2017 - 2020) \n Federico Vega: CONICET (Posdoctorado, 2017 - 2020) \n Marcos Andrés Madrid: CONICET (Posdoctorado, 2013 - 2015) \n Ramiro Miguel Irastorza: CONICET (Posdoctorado, 2010 - 2012)"
   }
 ]
