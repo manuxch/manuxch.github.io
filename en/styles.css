@@ -1,0 +1,59 @@
+/* css styles */
+
+/* Contenedor de íconos */
+.icon-links {
+  display: flex;               /* Usa flexbox para organizar los íconos */
+  justify-content: center;     /* Centra los íconos horizontalmente */
+  align-items: center;         /* Centra los íconos verticalmente */
+  gap: 20px;                   /* Espaciado entre íconos */
+  margin-top: 20px;            /* Espacio superior opcional */
+}
+
+/* Estilo de los íconos */
+.icon-links .iconify {
+  font-size: 2rem;             /* Tamaño de los íconos */
+  color: #007bff;             /* Color de los íconos */
+  transition: color 0.3s;      /* Suaviza el cambio de color */
+}
+
+/* Efecto hover en los íconos */
+.icon-links a:hover .iconify {
+  color: #0056b3;              /* Cambia el color cuando pasas el mouse */
+}
+
+.sponsors {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; /* Permite que los logos pasen a la siguiente línea si son demasiados */
+  gap: 20px; /* Espaciado entre logos */
+  margin-top: 20px 0;
+}
+
+.sponsor-logo {
+  height: 80px; /* Ajusta el tamaño de los logos */
+  object-fit: contain; /* Escala sin deformar */ 
+  max-width: 150px; /* Máximo ancho para evitar logos desproporcionados */
+}
+
+footer {
+  text-align: center; /* Centra el contenido */
+  padding: 10px 0; /* Espaciado interno */
+  margin-top: 40px; /* Margen superior */
+  border-top: 1px solid #ccc; /* Línea superior */
+  font-size: 0.8em; /* Tamaño de letra más pequeño */
+  color: #666; /* Color del texto */
+}
+
+footer p {
+  margin: 0; /* Elimina el margen predeterminado del párrafo */
+  display: inline-block; /* Asegura que el contenido esté en una sola línea */
+}
+
+footer a {
+  color: #007bff; /* Color del enlace */
+  text-decoration: none; /* Sin subrayado */
+}
+
+footer a:hover {
+  text-decoration: underline; /* Subrayado al pasar el ratón */
+}
