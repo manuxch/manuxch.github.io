@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carlevaro.ar/about.html</loc>
-    <lastmod>2025-01-27T21:03:54.556Z</lastmod>
+    <loc>https://carlevaro.ar/publicaciones.html</loc>
+    <lastmod>2026-08-24T20:51:00.359Z</lastmod>
   </url>
   <url>
     <loc>https://carlevaro.ar/info.html</loc>
-    <lastmod>2026-03-08T20:56:38.616Z</lastmod>
-  </url>
-  <url>
-    <loc>https://carlevaro.ar/index.html</loc>
-    <lastmod>2026-05-15T00:09:11.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://carlevaro.ar/publicaciones.html</loc>
-    <lastmod>2026-03-29T22:55:12.013Z</lastmod>
+    <lastmod>2026-08-24T21:13:49.333Z</lastmod>
   </url>
   <url>
     <loc>https://carlevaro.ar/cursos.html</loc>
-    <lastmod>2026-03-08T20:56:01.036Z</lastmod>
+    <lastmod>2026-08-24T20:51:00.359Z</lastmod>
+  </url>
+  <url>
+    <loc>https://carlevaro.ar/index.html</loc>
+    <lastmod>2026-08-24T21:14:20.198Z</lastmod>
   </url>
 </urlset>

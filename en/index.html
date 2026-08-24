@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>C. Manuel Carlevaro – Manuel Carlevaro</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -35,12 +41,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-fc2eaa58723daeb25127ff8ce26c3eec.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-4db0e392791364923da71da9f9066465.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-caf14c22e82990212f691ea95e31855b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-94085b4d84f1f25cf4a25e5eff7337a8.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -303,7 +309,7 @@ gtag('config', 'G-PGXK2XQ0QZ', { 'anonymize_ip': true});
 
 <div class="quarto-about-trestles">
   <div class="about-entity">
-    <img src="_images/mc.png" class="about-image
+    <img src="_images/mc.jpeg" class="about-image
   rounded " style="width: 16em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -352,7 +358,7 @@ gtag('config', 'G-PGXK2XQ0QZ', { 'anonymize_ip': true});
 <h3 data-anchor-id="sponsors-1">Sponsors</h3>
 <p>Institutions and organizations that support my work:</p>
 <div class="sponsors">
-<p><img src="_images/logo-conicet.svg" alt="Logo 1" class="sponsor-logo"> <img src="_images/logo-utn-gris.svg" alt="Logo 2" class="sponsor-logo"> <img src="_images/agencia_full.png" alt="Logo 4" class="sponsor-logo"> <img src="_images/doe-logo.png" alt="Logo 3" class="sponsor-logo"> <img src="_images/ec-rise.png" alt="Logo 4" class="sponsor-logo"> <img src="_images/ytec.png" alt="Logo 4" class="sponsor-logo"> <img src="_images/logo_gba.svg" alt="Logo 4" class="sponsor-logo"></p>
+<p><img src="_images/logo-conicet.svg" alt="CONICET" class="sponsor-logo"> <img src="_images/logo-utn-gris.svg" alt="Universidad Tecnológica Nacional" class="sponsor-logo"> <img src="_images/agencia_full.png" alt="Agencia I+D+i" class="sponsor-logo"> <img src="_images/doe-logo.png" alt="US Department of Energy" class="sponsor-logo"> <img src="_images/ec-rise.png" alt="European Commission – RISE" class="sponsor-logo"> <img src="_images/ytec.png" alt="YTEC" class="sponsor-logo"> <img src="_images/logo_gba.svg" alt="Gobierno de la Provincia de Buenos Aires" class="sponsor-logo"></p>
 </div>
 
 
@@ -436,13 +442,14 @@ gtag('config', 'G-PGXK2XQ0QZ', { 'anonymize_ip': true});
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
