@@ -45,3 +45,12 @@ footer.pie a {
 footer.pie a:hover {
   text-decoration: underline;
 }
+
+/* Artículos representativos de cada línea en investigacion.qmd */
+.refs-linea {
+  font-size: 0.9em;
+}
+
+.refs-linea li {
+  margin-bottom: 0.4em;
+}
