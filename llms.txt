@@ -1,0 +1,36 @@
+# Manuel Carlevaro
+
+> Physicist specializing in computational modeling and simulation of many-particle systems, with applications to granular matter, confined fluids, molecular biophysics and complex systems.
+
+Positions:
+
+- Independent Researcher, CONICET, at the Instituto de Física de Líquidos y Sistemas Biológicos (IFLYSIB, CONICET-UNLP); head of the Statistical Mechanics of Liquids and Soft Condensed Matter group.
+- Full Professor, Universidad Tecnológica Nacional, Facultad Regional La Plata; director of the Centro de Investigación en Mecánica Experimental y Computacional (CIMEC).
+
+The site is bilingual: Spanish at the root, English under /en/.
+
+Methods: Molecular dynamics, Discrete element method (DEM, CFD–DEM), Monte Carlo, Liquid-state theory, Genetic algorithms, Neural networks.
+Research lines: granular matter, confined fluids, molecular biophysics, complex systems.
+
+## Pages
+
+- [Home (English)](https://carlevaro.ar/en/): profile, education, methods and research lines
+- [Research](https://carlevaro.ar/en/investigacion.html): research lines with representative papers and collaborators
+- [Publications](https://carlevaro.ar/en/publicaciones.html): 55 peer-reviewed articles with DOI and BibTeX
+- [Info](https://carlevaro.ar/en/info.html): short biography, funding, PhD students and postdocs, academic service, outreach
+- [Courses](https://carlevaro.ar/en/cursos.html): undergraduate and graduate teaching
+- [Inicio (español)](https://carlevaro.ar/): versión en castellano del sitio
+
+## Data
+
+- [All publications in BibTeX](https://carlevaro.ar/publicaciones.bib)
+- [Curriculum vitae (PDF, Spanish)](https://github.com/manuxch/cv/raw/master/MC-cv.pdf)
+
+## Profiles
+
+- https://orcid.org/0000-0003-3528-7614
+- https://scholar.google.com/citations?user=FoBqqJgAAAAJ
+- https://arxiv.org/a/carlevaro_m_1.html
+- https://github.com/manuxch
+- https://www.linkedin.com/in/carlevaro
+- https://bsky.app/profile/manux.bsky.social

@@ -54,3 +54,28 @@ footer.pie a:hover {
 .refs-linea li {
   margin-bottom: 0.4em;
 }
+
+/* Referencia BibTeX desplegable bajo cada publicación */
+.pub p {
+  margin-bottom: 0.2em;
+}
+
+details.bibtex {
+  margin: 0 0 1em 1.5em;
+  font-size: 0.85em;
+}
+
+details.bibtex summary {
+  cursor: pointer;
+  color: var(--bs-secondary-color);
+}
+
+details.bibtex pre {
+  margin-top: 0.4em;
+}
+
+/* Quarto fija white-space: pre en pre > code; se reemplaza para evitar el scroll horizontal */
+details.bibtex pre code {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
