@@ -24,7 +24,7 @@ Research lines: granular matter, confined fluids, molecular biophysics, complex 
 ## Data
 
 - [All publications in BibTeX](https://carlevaro.ar/publicaciones.bib)
-- [Curriculum vitae (PDF, Spanish)](https://github.com/manuxch/cv/raw/master/MC-cv.pdf)
+- [Curriculum vitae (PDF, Spanish)](https://manuxch.github.io/cv/cv.pdf)
 
 ## Profiles
 
